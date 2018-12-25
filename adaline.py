@@ -1,3 +1,8 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+from matplotlib.colors import ListedColormap
+
 class AdalineGD(object):
     """ADAptive LInear NEuron classifier.
 
